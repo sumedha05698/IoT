@@ -227,7 +227,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Sumedha.C**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+
 
 ---
 
