@@ -1,0 +1,22 @@
+# Arduino build artifacts
+build/
+*.bin
+*.elf
+*.hex
+*.map
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# Secrets – NEVER commit real credentials
+secrets.h
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Wokwi local cache
+.wokwi-local/
