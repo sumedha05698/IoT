@@ -101,7 +101,7 @@ GPIO 14  ──[220Ω]──  Blue   LED Anode → GND
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/esp32-led-blynk.git
+git clone https://github.com/Sumedha-C/esp32-led-blynk.git
 cd esp32-led-blynk
 ```
 
